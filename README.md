@@ -26,12 +26,12 @@ This includes:
 
 ---
 
-Excel Dashboard Walkthrough
+## Excel Dashboard Walkthrough
 <a href="https://docs.google.com/spreadsheets/d/188wbvyC0ZN1cNf2DNjzHzs0ASlYsSlag/edit?usp=sharing&ouid=105712213335799129971&rtpof=true&sd=true">
   <img src="<img width="700" alt="image" src="https://github.com/user-attachments/assets/32aa15e1-4b46-4e92-864e-e404746cbcc6" />
 </a>
 
-Interactive Excel dashboard with pivots, charts & product insights:
+**Interactive Excel dashboard with pivots, charts & product insights:**
 🔗 **[Excel Dashboard- Healthapp Analytics]([https://www.notion.so/Medicine-App-Monetization-Funnel-Analysis-311bbdae477981d6ac54dadfd06b1016?source=copy_link](https://docs.google.com/spreadsheets/d/188wbvyC0ZN1cNf2DNjzHzs0ASlYsSlag/edit?usp=sharing&ouid=105712213335799129971&rtpof=true&sd=true))**
 
 This dashboard includes:
