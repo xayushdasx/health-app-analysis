@@ -28,7 +28,7 @@ This includes:
 
 ## Excel Dashboard Walkthrough
 <a href="https://docs.google.com/spreadsheets/d/188wbvyC0ZN1cNf2DNjzHzs0ASlYsSlag/edit?usp=sharing&ouid=105712213335799129971&rtpof=true&sd=true">
-  <img src="<img width="700" alt="image" src="https://github.com/user-attachments/assets/32aa15e1-4b46-4e92-864e-e404746cbcc6" />
+  <img src="https://github.com/user-attachments/assets/32aa15e1-4b46-4e92-864e-e404746cbcc6" width="700" />
 </a>
 
 **Interactive Excel dashboard with pivots, charts & product insights:**
