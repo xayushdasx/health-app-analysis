@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# 🩺 Health App Growth & Monetization Analytics
+
+# 🩺 Healthtech App Growth & Monetization Analytics
 
 End-to-end product analytics project exploring user engagement, retention,
 and subscription conversion for a digital health application.
