@@ -14,7 +14,9 @@ interactive Streamlit dashboard, and an Excel dashboard** to uncover growth and 
   <img src="https://github.com/user-attachments/assets/6dd166e1-d6c3-4681-9c88-ce151dce5840" width="700"/>
 </a>
 
-**Full analysis, insights & product narrative:**  
+
+**Full analysis, insights & product narrative:** 
+
 🔗 **[Medicine App Monetization Funnel Analysis — Notion Case Study](https://www.notion.so/Medicine-App-Monetization-Funnel-Analysis-311bbdae477981d6ac54dadfd06b1016?source=copy_link)**
 
 This includes:
@@ -30,6 +32,7 @@ This includes:
 <a href="https://docs.google.com/spreadsheets/d/188wbvyC0ZN1cNf2DNjzHzs0ASlYsSlag/edit?usp=sharing&ouid=105712213335799129971&rtpof=true&sd=true">
   <img src="https://github.com/user-attachments/assets/32aa15e1-4b46-4e92-864e-e404746cbcc6" width="700" />
 </a>
+
 
 **Interactive Excel dashboard with pivots, charts & product insights:**
 
