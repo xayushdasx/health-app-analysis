@@ -26,6 +26,22 @@ This includes:
 
 ---
 
+Excel Dashboard Walkthrough
+<a href="<img width="900" height="330" alt="image" src="https://github.com/user-attachments/assets/7a01953b-3ea6-44e0-9563-323469c46146" />
+"> <img src="https://docs.google.com/spreadsheets/d/188wbvyC0ZN1cNf2DNjzHzs0ASlYsSlag/edit?usp=sharing&ouid=105712213335799129971&rtpof=true&sd=true" width="700"/> </a>
+
+Interactive Excel dashboard with pivots, charts & product insights:
+🔗 **[Excel Dashboard- Healthapp Analytics]([https://www.notion.so/Medicine-App-Monetization-Funnel-Analysis-311bbdae477981d6ac54dadfd06b1016?source=copy_link](https://docs.google.com/spreadsheets/d/188wbvyC0ZN1cNf2DNjzHzs0ASlYsSlag/edit?usp=sharing&ouid=105712213335799129971&rtpof=true&sd=true))**
+
+This dashboard includes:
+
+- Funnel visualization (Visitors → Consult Users → Subscribers)
+- Conversion rate breakdown by acquisition channel
+- Feature adoption distribution across key app features
+- Engagement segmentation (low(casual) vs high(power) activity users)
+- Conversion vs engagement comparison
+- Monthly revenue trend visualization
+
 ## 🎯 Objective
 
 Understand how users interact with core health app features and identify opportunities to:
@@ -179,6 +195,7 @@ App opens at **http://localhost:8501** (or the next available port if 8501 is in
 
 ## Skills Demonstrated
 
+- Data Analytics using Python 
 - Product analytics & funnel thinking
 - Cohort and retention analysis
 - Behavioral segmentation
