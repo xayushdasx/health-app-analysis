@@ -1,13 +1,15 @@
 """
 Health App Analytics — Streamlit dashboard.
 Run with: streamlit run dashboard.py
+Data is loaded from MySQL (database: health_app). Set MYSQL_PASSWORD env var if needed.
 """
 
+import os
 import streamlit as st
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
-from pathlib import Path
+import mysql.connector
 
 # -----------------------------------------------------------------------------
 # Page config and data loading
@@ -20,16 +22,21 @@ st.set_page_config(
     initial_sidebar_state="collapsed",
 )
 
-DATA_DIR = Path("data")
-
 
 @st.cache_data
 def load_data():
-    """Load and preprocess CSV datasets; cache to avoid reloading on rerun."""
-    users = pd.read_csv(DATA_DIR / "users.csv")
-    sessions = pd.read_csv(DATA_DIR / "sessions.csv")
-    subs = pd.read_csv(DATA_DIR / "subscriptions.csv")
-    payments = pd.read_csv(DATA_DIR / "payments.csv")
+    """Load and preprocess data from MySQL; cache to avoid reloading on rerun."""
+    conn = mysql.connector.connect(
+        host="localhost",
+        user="root",
+        password=os.environ.get("MYSQL_PASSWORD", "ayushdas@06"),
+        database="health_app",
+    )
+    users = pd.read_sql("SELECT * FROM users", conn)
+    sessions = pd.read_sql("SELECT * FROM sessions", conn)
+    subs = pd.read_sql("SELECT * FROM subscriptions", conn)
+    payments = pd.read_sql("SELECT * FROM payments", conn)
+    conn.close()
 
     users["signup_date"] = pd.to_datetime(users["signup_date"])
     sessions["date"] = pd.to_datetime(sessions["date"])
