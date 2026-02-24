@@ -9,8 +9,9 @@ interactive Streamlit dashboard** to uncover growth and monetization insights.
 ---
 
 ## Case Study Walkthrough
-<img width="368" height="137" alt="image" src="https://github.com/user-attachments/assets/6dd166e1-d6c3-4681-9c88-ce151dce5840" />
-[![Case Study](https://github.com/user-attachments/assets/6dd166e1-d6c3-4681-9c88-ce151dce5840)](https://www.notion.so/Medicine-App-Monetization-Funnel-Analysis-311bbdae477981d6ac54dadfd06b1016?source=copy_link)
+<a href="https://www.notion.so/Medicine-App-Monetization-Funnel-Analysis-311bbdae477981d6ac54dadfd06b1016?source=copy_link">
+  <img src="https://github.com/user-attachments/assets/6dd166e1-d6c3-4681-9c88-ce151dce5840" width="700"/>
+</a>
 
 **Full analysis, insights & product narrative:**  
 🔗 **[Medicine App Monetization Funnel Analysis — Notion Case Study](https://www.notion.so/Medicine-App-Monetization-Funnel-Analysis-311bbdae477981d6ac54dadfd06b1016?source=copy_link)**
@@ -168,5 +169,6 @@ health-app-analysis/
 - Pricing experimentation across tiers
 
 ---
+
 
 
