@@ -32,7 +32,7 @@ This includes:
 </a>
 
 **Interactive Excel dashboard with pivots, charts & product insights:**
-🔗 **[Excel Dashboard- Healthapp Analytics]([https://www.notion.so/Medicine-App-Monetization-Funnel-Analysis-311bbdae477981d6ac54dadfd06b1016?source=copy_link](https://docs.google.com/spreadsheets/d/188wbvyC0ZN1cNf2DNjzHzs0ASlYsSlag/edit?usp=sharing&ouid=105712213335799129971&rtpof=true&sd=true))**
+🔗 **[Excel Dashboard- Healthapp Analytics](https://docs.google.com/spreadsheets/d/188wbvyC0ZN1cNf2DNjzHzs0ASlYsSlag/edit?usp=sharing&ouid=105712213335799129971&rtpof=true&sd=true)**
 
 This dashboard includes:
 
